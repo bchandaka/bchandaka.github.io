@@ -104,12 +104,11 @@ contact_note:
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
-
 google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
-bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
+google_site_verification: xmHKNsLN5ugUHvEeBfAqYgATFRRnRBtEYxtWFIrS7-I # your google-site-verification ID (Google Search Console)
+bing_site_verification: A9A70C5E89D5CDC9AA105940FD6E9D54 # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
