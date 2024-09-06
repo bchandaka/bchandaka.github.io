@@ -11,7 +11,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-I am an MSCS student at UIUC working on research in robotics and computer vision advised by Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/). Previously, I completed my undergrad in Math&CS from UIUC, where I worked on autonomous vehicle research also advised by Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/). 
+I am an MSCS student at UIUC working on research in robotics and computer vision advised by Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/). I am currently working on building a custom mobile manipulation platform for last-mile delivery. Previously, I completed my undergrad in Math&CS from UIUC, where I worked on autonomous vehicle research. 
