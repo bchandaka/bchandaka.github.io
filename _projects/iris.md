@@ -3,7 +3,7 @@ layout: page
 title: IRIS
 description: Leading autonomy for a lunar rover in Illinois Robotics in Space
 img: assets/img/projects/iris_rover.jpg
-importance: 4
+importance: 5
 category: leadership
 github: https://github.com/IllinoisRoboticsInSpace
 ---

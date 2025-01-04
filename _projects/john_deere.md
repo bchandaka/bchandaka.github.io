@@ -3,7 +3,7 @@ layout: page
 title: Agtech Autonomous Vehicles
 description: Interned at John Deere for 1.5 years working on autonomous golf mowers and construction vehicles
 img: assets/img/projects/deere_skid_steer.jpg
-importance: 2
+importance: 3
 category: industry
 ---
 

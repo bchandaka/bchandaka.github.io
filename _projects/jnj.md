@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Surgical Robots @ J&J
-description: Developed new robot safety software features for the Monarch platform at J&J 
+title: Safe Surgical Robots
+description: Developed new robot safety software feature for the Monarch platform at J&J 
 img: assets/img/projects/jnj_arms.jpg
-importance: 2
+importance: 3
 category: industry
 ---
 

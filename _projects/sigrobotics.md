@@ -3,7 +3,7 @@ layout: page
 title: SigRobotics
 description: Co-Founded a club to explore open-source robotics
 img: assets/img/projects/sigrobotics_logo.png
-importance: 3
+importance: 4
 category: leadership
 github: https://github.com/SIGRobotics-UIUC
 ---
